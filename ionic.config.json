@@ -1,0 +1,8 @@
+{
+  "name": "HermitCrab To-do list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "dd050795"
+}
